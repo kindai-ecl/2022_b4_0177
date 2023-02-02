@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2019.4.23)  2 FEB 2023 04:37
+This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2019.4.23)  3 FEB 2023 06:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -144,18 +144,27 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 [1
 
 ]
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 44.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 44.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 44.
+(Font)              scaled to size 8.64899pt on input line 44.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 44.
+(Font)              scaled to size 8.64899pt on input line 44.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 44.
+(Font)              scaled to size 8.64899pt on input line 44.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 44.
+(Font)              scaled to size 8.64899pt on input line 44.
+ [2]
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 83.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 83.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 83.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 83.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 83.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 83.
  (./107.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
@@ -169,29 +178,33 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 \tf@toc=\write3
 \openout3 = `107.toc'.
 
- [2]
+ [3]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 51.
+(Font)              scaled to size 11.53198pt on input line 91.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 51.
+(Font)              scaled to size 11.53198pt on input line 91.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 95.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 5.76599pt on input line 95.
 File: 1.png Graphic file (type bmp)
 <1.png>
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 72.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 72.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 73.
 File: 2.png Graphic file (type bmp)
 <2.png>
- [3] [4]
+ [4]
+File: 6.png Graphic file (type bmp)
+<6.png>
+ [5] [6]
 File: 3.png Graphic file (type bmp)
 <3.png>
- [5] [6]
+ [7] [8]
 File: 4.png Graphic file (type bmp)
 <4.png>
- [7] [8]
-Overfull \hbox (9.95174pt too wide) in paragraph at lines 296--305
+ [9] [10]
+File: 5.png Graphic file (type bmp)
+<5.png>
+ [11]
+Overfull \hbox (9.95174pt too wide) in paragraph at lines 366--375
  [][][] 
  []
 
@@ -203,23 +216,23 @@ File: 712.png Graphic file (type bmp)
 <712.png>
 File: 1214.png Graphic file (type bmp)
 <1214.png>
-[9]
+[12]
 File: 1216.png Graphic file (type bmp)
 <1216.png>
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 362.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 431.
 
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 362.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 431.
 File: 708a.png Graphic file (type bmp)
 <708a.png>
 File: 708b.png Graphic file (type bmp)
 <708b.png>
 File: 711a.png Graphic file (type bmp)
 <711a.png>
- [10]
+ [13]
 File: 711b.png Graphic file (type bmp)
 <711b.png>
 File: 712a.png Graphic file (type bmp)
@@ -230,23 +243,23 @@ File: 1214a.png Graphic file (type bmp)
 <1214a.png>
 File: 1214b.png Graphic file (type bmp)
 <1214b.png>
- [11]
+
+[14]
 File: 1216a.png Graphic file (type bmp)
 <1216a.png>
 File: 1216b.png Graphic file (type bmp)
 <1216b.png>
-
-[12]
+ [15]
 File: 1214mw.png Graphic file (type bmp)
 <1214mw.png>
- [13]
+ [16]
 File: man1.png Graphic file (type bmp)
 <man1.png>
 File: woman1.png Graphic file (type bmp)
 <woman1.png>
 File: 1214123.png Graphic file (type bmp)
 <1214123.png>
- [14]
+ [17]
 File: 1-3a.png Graphic file (type bmp)
 <1-3a.png>
 File: 2-3a.png Graphic file (type bmp)
@@ -255,14 +268,14 @@ File: 3-3a.png Graphic file (type bmp)
 <3-3a.png>
 File: 1216mw.png Graphic file (type bmp)
 <1216mw.png>
- [15]
+ [18]
 File: man2.png Graphic file (type bmp)
 <man2.png>
 File: woman2.png Graphic file (type bmp)
 <woman2.png>
 File: 1216123.png Graphic file (type bmp)
 <1216123.png>
- [16]
+ [19]
 File: 1-5b.png Graphic file (type bmp)
 <1-5b.png>
 File: 2-5b.png Graphic file (type bmp)
@@ -273,14 +286,14 @@ File: 4-5b.png Graphic file (type bmp)
 <4-5b.png>
 File: 5-5b.png Graphic file (type bmp)
 <5-5b.png>
- [17] [18] [19] [20] [21] [22] (./107.aux) ) 
+ [20] [21] [22] [23] [24] [25] (./107.aux) ) 
 Here is how much of TeX's memory you used:
- 1202 strings out of 493226
- 15467 string characters out of 6144095
+ 1214 strings out of 493226
+ 15627 string characters out of 6144095
  87851 words of memory out of 5000000
- 5144 multiletter control sequences out of 15000+600000
- 17872 words of font info for 79 fonts, out of 8000000 for 9000
+ 5151 multiletter control sequences out of 15000+600000
+ 18648 words of font info for 83 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 25i,8n,21p,218b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,8n,21p,244b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 107.dvi (22 pages, 52152 bytes).
+Output written on 107.dvi (25 pages, 60884 bytes).
